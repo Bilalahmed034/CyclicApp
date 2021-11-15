@@ -6,3 +6,5 @@ Improved transitions on forms
 
 Updated dependencies
 
+Updated layout in settings page
+
