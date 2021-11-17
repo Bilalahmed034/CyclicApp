@@ -24,3 +24,5 @@ Fixed issue in email verification
 
 Fixed issue in email verification
 
+Improved error display
+
