@@ -64,3 +64,5 @@ Fixed visual glitch on loading
 
 Fixed visual glitch on loading
 
+Improved icons for mobile view
+
