@@ -66,3 +66,5 @@ Fixed visual glitch on loading
 
 Improved icons for mobile view
 
+Improved icons for mobile view
+
