@@ -92,3 +92,5 @@ Updated animations
 
 Updated animations
 
+Fixed issue with media queries
+
