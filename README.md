@@ -106,3 +106,5 @@ Fixed issue with media queries
 
 Fixed issue with media queries
 
+Improved hover animations
+
