@@ -108,3 +108,5 @@ Fixed issue with media queries
 
 Improved hover animations
 
+Updated project metadata
+
