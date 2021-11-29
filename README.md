@@ -110,3 +110,5 @@ Improved hover animations
 
 Updated project metadata
 
+Fixed scroll issues
+
