@@ -112,3 +112,5 @@ Updated project metadata
 
 Fixed scroll issues
 
+Fixed scroll issues
+
