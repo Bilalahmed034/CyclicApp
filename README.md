@@ -128,3 +128,5 @@ Fixed scroll issues
 
 Updated pagination styling
 
+Updated pagination styling
+
