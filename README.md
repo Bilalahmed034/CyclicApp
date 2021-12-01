@@ -146,3 +146,5 @@ Updated pagination styling
 
 Updated pagination styling
 
+Improved footer accessibility
+
