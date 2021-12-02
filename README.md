@@ -152,3 +152,5 @@ Improved footer accessibility
 
 Updated mobile view styles
 
+Updated mobile view styles
+

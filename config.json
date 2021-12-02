@@ -1,0 +1,29 @@
+﻿{
+    "environment":"production",
+
+    "databaseProduction": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "root@123#",
+        "database": "nomo_backend"
+    },
+    "databaseDevelopment": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "",
+        "database": "nomo"
+    },
+    "secret": "thisissecretekey",
+    "emailFrom": "Nomo nomo@codingsolution24.com",
+    "smtpOptions": {
+        "host": "mail.codingsolution24.com",
+        "port": 465,
+        "secure": true,
+        "auth": {
+            "user": "nomo@codingsolution24.com",
+            "pass": "Nomo@123#!"
+        }
+    }
+}
