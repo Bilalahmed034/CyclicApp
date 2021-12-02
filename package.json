@@ -1,0 +1,48 @@
+{
+  "name": "auth-node-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "start:dev": "nodemon",
+    "db:up": "node src/database/scripts/dbUp.js",
+    "db:check": "node src/database/scripts/tablesUp.js",
+    "db:down": "node src/database/scripts/truncate.js",
+    "db:test": "node src/database/scripts/test.js",
+    "db:seed": "node src/database/seeders/adminSeeder.js",
+    "db:priceseed": "node src/database/seeders/pricingSeeder.js",
+    "user:verify": "node src/database/scripts/setVerified.js",
+    "db:init": "npm run db:up ",
+    "db:backup": "node helpers/dbExporter.js",
+    "db:restore": "node helpers/dbImporter.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.2",
+    "fast-csv": "^4.3.6",
+    "joi": "^17.6.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemailer": "^6.8.0",
+    "pg": "^8.10.0",
+    "sequelize": "^6.31.0",
+    "sequelize-import-export": "^1.0.1",
+    "socket.io": "^4.7.2",
+    "stripe": "^11.5.0",
+    "twilio": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "winston": "^3.7.2"
+  }
+}
