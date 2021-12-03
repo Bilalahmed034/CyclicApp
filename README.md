@@ -168,3 +168,5 @@ Updated mobile view styles
 
 Fixed hover on buttons
 
+Fixed hover on buttons
+
