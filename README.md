@@ -180,3 +180,5 @@ Fixed hover on buttons
 
 Fixed hover on buttons
 
+Fixed modal width on desktop
+
