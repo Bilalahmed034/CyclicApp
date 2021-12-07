@@ -196,3 +196,5 @@ Fixed modal width on desktop
 
 Improved load times
 
+Improved load times
+
