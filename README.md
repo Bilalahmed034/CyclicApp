@@ -226,3 +226,5 @@ Fixed input spacing
 
 Fixed input spacing
 
+Improved sidebar
+
