@@ -234,3 +234,5 @@ Improved sidebar
 
 Improved sidebar
 
+Improved card styling
+
