@@ -240,3 +240,5 @@ Improved card styling
 
 Improved card styling
 
+Fixed hover on links
+
