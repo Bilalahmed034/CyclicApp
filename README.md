@@ -254,3 +254,5 @@ Fixed hover on links
 
 Improved UX on onboarding
 
+Improved UX on onboarding
+
