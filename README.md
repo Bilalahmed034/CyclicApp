@@ -270,3 +270,5 @@ Updated README
 
 Updated README
 
+Fixed width on mobile view
+
