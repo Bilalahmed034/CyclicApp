@@ -278,3 +278,5 @@ Fixed width on mobile view
 
 Fixed width on mobile view
 
+Fixed width on mobile view
+
