@@ -282,3 +282,5 @@ Fixed width on mobile view
 
 Fixed alignment issues
 
+Fixed alignment issues
+
