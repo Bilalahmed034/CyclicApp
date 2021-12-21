@@ -284,3 +284,5 @@ Fixed alignment issues
 
 Fixed alignment issues
 
+Improved desktop view
+
