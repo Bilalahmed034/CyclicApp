@@ -298,3 +298,5 @@ Improved desktop view
 
 Updated loader styles
 
+Updated loader styles
+
