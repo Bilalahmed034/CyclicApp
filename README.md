@@ -334,3 +334,5 @@ Fixed modal width on desktop
 
 Improved load times
 
+Improved sidebar
+
