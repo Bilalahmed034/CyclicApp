@@ -336,3 +336,5 @@ Improved load times
 
 Improved sidebar
 
+Improved sidebar
+
