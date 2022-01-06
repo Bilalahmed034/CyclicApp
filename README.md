@@ -438,3 +438,5 @@ Added user authentication flow
 
 Fixed bug in user registration
 
+Fixed bug in user registration
+
