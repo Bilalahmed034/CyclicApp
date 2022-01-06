@@ -452,3 +452,5 @@ Fixed bug in user registration
 
 Fixed bug in user registration
 
+Fixed bug in user registration
+
