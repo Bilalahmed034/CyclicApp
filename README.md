@@ -456,3 +456,5 @@ Fixed bug in user registration
 
 Fixed bug in user registration
 
+Optimized image loading on profile page
+
