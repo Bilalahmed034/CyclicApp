@@ -458,3 +458,5 @@ Fixed bug in user registration
 
 Optimized image loading on profile page
 
+Optimized image loading on profile page
+
