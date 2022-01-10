@@ -464,3 +464,5 @@ Optimized image loading on profile page
 
 Fixed typo in error messages
 
+Fixed typo in error messages
+
