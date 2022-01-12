@@ -490,3 +490,5 @@ Improved error handling in API calls
 
 Improved error handling in API calls
 
+Added loading spinner for async tasks
+
