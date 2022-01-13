@@ -502,3 +502,5 @@ Added loading spinner for async tasks
 
 Added loading spinner for async tasks
 
+Improved form validation for sign-up
+
