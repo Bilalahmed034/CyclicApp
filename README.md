@@ -512,3 +512,5 @@ Improved form validation for sign-up
 
 Fixed issue with logout functionality
 
+Fixed issue with logout functionality
+
