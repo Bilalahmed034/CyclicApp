@@ -522,3 +522,5 @@ Fixed issue with logout functionality
 
 Fixed issue with logout functionality
 
+Updated README with setup instructions
+
