@@ -568,3 +568,5 @@ Updated project dependencies
 
 Implemented email verification
 
+Implemented email verification
+
