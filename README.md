@@ -566,3 +566,5 @@ Updated project dependencies
 
 Updated project dependencies
 
+Implemented email verification
+
