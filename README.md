@@ -578,3 +578,5 @@ Implemented email verification
 
 Implemented email verification
 
+Fixed issue with API response parsing
+
