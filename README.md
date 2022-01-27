@@ -608,3 +608,5 @@ Optimized database queries
 
 Fixed navigation bug
 
+Fixed navigation bug
+
