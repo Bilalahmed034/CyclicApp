@@ -614,3 +614,5 @@ Fixed navigation bug
 
 Fixed navigation bug
 
+Added animations for page transitions
+
