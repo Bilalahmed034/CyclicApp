@@ -630,3 +630,5 @@ Added animations for page transitions
 
 Added animations for page transitions
 
+Added animations for page transitions
+
