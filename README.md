@@ -636,3 +636,5 @@ Added animations for page transitions
 
 Improved password validation
 
+Improved password validation
+
