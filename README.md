@@ -724,3 +724,5 @@ Fixed issue with data loading on refresh
 
 Fixed issue with data loading on refresh
 
+Fixed issue with data loading on refresh
+
