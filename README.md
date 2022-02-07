@@ -708,3 +708,5 @@ Improved user feedback on errors
 
 Improved user feedback on errors
 
+Fixed issue with data loading on refresh
+
