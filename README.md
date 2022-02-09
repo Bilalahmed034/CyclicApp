@@ -740,3 +740,5 @@ Improved session management
 
 Improved session management
 
+Updated app color scheme
+
