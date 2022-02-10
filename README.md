@@ -742,3 +742,5 @@ Improved session management
 
 Updated app color scheme
 
+Refactored form component
+
