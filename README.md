@@ -744,3 +744,5 @@ Updated app color scheme
 
 Refactored form component
 
+Fixed performance issue on profile page
+
