@@ -748,3 +748,5 @@ Fixed performance issue on profile page
 
 Improved code structure
 
+Improved code structure
+
