@@ -746,3 +746,5 @@ Refactored form component
 
 Fixed performance issue on profile page
 
+Improved code structure
+
