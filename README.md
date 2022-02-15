@@ -766,3 +766,5 @@ Improved code structure
 
 Improved code structure
 
+Added new feature for user notifications
+
