@@ -768,3 +768,5 @@ Improved code structure
 
 Added new feature for user notifications
 
+Added new feature for user notifications
+
