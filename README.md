@@ -778,3 +778,5 @@ Added new feature for user notifications
 
 Updated localization files
 
+Fixed scrolling issue on mobile
+
