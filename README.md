@@ -780,3 +780,5 @@ Updated localization files
 
 Fixed scrolling issue on mobile
 
+Fixed scrolling issue on mobile
+
