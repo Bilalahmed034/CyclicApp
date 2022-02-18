@@ -784,3 +784,5 @@ Fixed scrolling issue on mobile
 
 Fixed scrolling issue on mobile
 
+Improved UX for error messages
+
