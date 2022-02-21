@@ -800,3 +800,5 @@ Improved UX for error messages
 
 Added new feature for saving favorites
 
+Added new feature for saving favorites
+
