@@ -798,3 +798,5 @@ Improved UX for error messages
 
 Improved UX for error messages
 
+Added new feature for saving favorites
+
