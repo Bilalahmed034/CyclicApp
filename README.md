@@ -858,3 +858,5 @@ Added logging for debugging
 
 Added logging for debugging
 
+Improved validation for email fields
+
