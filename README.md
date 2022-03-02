@@ -866,3 +866,5 @@ Improved validation for email fields
 
 Added API rate limiting
 
+Added API rate limiting
+
