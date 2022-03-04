@@ -882,3 +882,5 @@ Updated unit tests for form components
 
 Updated unit tests for form components
 
+Fixed style issues on desktop view
+
