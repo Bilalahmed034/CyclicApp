@@ -904,3 +904,5 @@ Fixed style issues on desktop view
 
 Updated CSS for better accessibility
 
+Updated CSS for better accessibility
+
