@@ -916,3 +916,5 @@ Updated CSS for better accessibility
 
 Fixed issue with dropdown alignment
 
+Fixed issue with dropdown alignment
+
