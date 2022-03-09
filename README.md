@@ -922,3 +922,5 @@ Fixed issue with dropdown alignment
 
 Fixed issue with dropdown alignment
 
+Added new feature for user mentions
+
