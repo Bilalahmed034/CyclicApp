@@ -942,3 +942,5 @@ Added new feature for user mentions
 
 Added new feature for user mentions
 
+Improved loading speed on homepage
+
