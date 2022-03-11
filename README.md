@@ -960,3 +960,5 @@ Improved loading speed on homepage
 
 Fixed bug in password reset
 
+Fixed bug in password reset
+
