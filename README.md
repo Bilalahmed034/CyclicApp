@@ -966,3 +966,5 @@ Fixed bug in password reset
 
 Fixed bug in password reset
 
+Fixed alignment issues in header
+
