@@ -968,3 +968,5 @@ Fixed bug in password reset
 
 Fixed alignment issues in header
 
+Fixed alignment issues in header
+
