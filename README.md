@@ -988,3 +988,5 @@ Improved readability of console logs
 
 Fixed issue with email notifications
 
+Fixed issue with email notifications
+
