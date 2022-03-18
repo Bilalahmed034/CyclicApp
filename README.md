@@ -994,3 +994,5 @@ Fixed issue with email notifications
 
 Fixed issue with email notifications
 
+Updated privacy policy link
+
