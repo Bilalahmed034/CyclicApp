@@ -996,3 +996,5 @@ Fixed issue with email notifications
 
 Updated privacy policy link
 
+Improved data caching strategy
+
