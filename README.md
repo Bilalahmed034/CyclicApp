@@ -1004,3 +1004,5 @@ Improved data caching strategy
 
 Improved data caching strategy
 
+Added input validation for forms
+
