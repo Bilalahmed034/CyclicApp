@@ -1032,3 +1032,5 @@ Updated readme with new features
 
 Updated readme with new features
 
+Fixed data sync issue on logout
+
