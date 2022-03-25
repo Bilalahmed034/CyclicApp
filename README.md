@@ -1038,3 +1038,5 @@ Fixed data sync issue on logout
 
 Improved responsiveness of grid layout
 
+Improved responsiveness of grid layout
+
