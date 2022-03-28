@@ -1046,3 +1046,5 @@ Improved responsiveness of grid layout
 
 Improved responsiveness of grid layout
 
+Improved error feedback for login
+
