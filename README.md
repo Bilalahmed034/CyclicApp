@@ -1068,3 +1068,5 @@ Added user guide link in settings
 
 Added user guide link in settings
 
+Improved styling for notification bar
+
