@@ -1070,3 +1070,5 @@ Added user guide link in settings
 
 Improved styling for notification bar
 
+Improved login page animations
+
