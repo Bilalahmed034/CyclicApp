@@ -1090,3 +1090,5 @@ Improved login page animations
 
 Added missing translation strings
 
+Fixed formatting issue in logs
+
