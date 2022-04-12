@@ -1122,3 +1122,5 @@ Updated deployment scripts
 
 Updated deployment scripts
 
+Fixed encoding issue in emails
+
