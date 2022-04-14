@@ -1142,3 +1142,5 @@ Fixed encoding issue in emails
 
 Added tooltip to input fields
 
+Improved validation for passwords
+
