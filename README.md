@@ -1144,3 +1144,5 @@ Added tooltip to input fields
 
 Improved validation for passwords
 
+Improved validation for passwords
+
