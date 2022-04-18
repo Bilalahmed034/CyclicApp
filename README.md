@@ -1164,3 +1164,5 @@ Updated icons for better clarity
 
 Updated icons for better clarity
 
+Fixed performance bottleneck in API
+
