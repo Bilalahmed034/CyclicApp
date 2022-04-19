@@ -1166,3 +1166,5 @@ Updated icons for better clarity
 
 Fixed performance bottleneck in API
 
+Added placeholder text to search
+
