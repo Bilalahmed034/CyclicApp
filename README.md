@@ -1206,3 +1206,5 @@ Improved UX for form validation
 
 Fixed image resizing issue
 
+Fixed image resizing issue
+
