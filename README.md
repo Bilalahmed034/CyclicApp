@@ -1222,3 +1222,5 @@ Fixed image resizing issue
 
 Fixed image resizing issue
 
+Improved accessibility for forms
+
