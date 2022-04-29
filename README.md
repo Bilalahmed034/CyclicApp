@@ -1258,3 +1258,5 @@ Improved sorting in search results
 
 Fixed alignment issue in footer
 
+Fixed alignment issue in footer
+
