@@ -1256,3 +1256,5 @@ Improved sorting in search results
 
 Improved sorting in search results
 
+Fixed alignment issue in footer
+
