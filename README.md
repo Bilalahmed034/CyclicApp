@@ -1260,3 +1260,5 @@ Fixed alignment issue in footer
 
 Fixed alignment issue in footer
 
+Fixed alignment issue in footer
+
