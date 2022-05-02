@@ -1270,3 +1270,5 @@ Fixed alignment issue in footer
 
 Fixed alignment issue in footer
 
+Fixed bug in profile update
+
