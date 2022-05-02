@@ -1272,3 +1272,5 @@ Fixed alignment issue in footer
 
 Fixed bug in profile update
 
+Fixed bug in profile update
+
