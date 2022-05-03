@@ -1278,3 +1278,5 @@ Fixed bug in profile update
 
 Updated navbar for mobile
 
+Updated navbar for mobile
+
