@@ -1294,3 +1294,5 @@ Improved analytics tracking
 
 Improved analytics tracking
 
+Fixed alignment issues in header
+
