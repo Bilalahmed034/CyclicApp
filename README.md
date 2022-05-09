@@ -1328,3 +1328,5 @@ Fixed issue with avatar cropping
 
 Fixed issue with avatar cropping
 
+Fixed issue with avatar cropping
+
