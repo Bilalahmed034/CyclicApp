@@ -1316,3 +1316,5 @@ Updated readme with contributors
 
 Updated readme with contributors
 
+Fixed issue with avatar cropping
+
