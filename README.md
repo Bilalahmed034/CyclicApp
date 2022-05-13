@@ -1356,3 +1356,5 @@ Fixed typo in welcome message
 
 Fixed typo in welcome message
 
+Added placeholder for loading data
+
