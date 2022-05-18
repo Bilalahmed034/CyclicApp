@@ -1380,3 +1380,5 @@ Improved CSS for dark mode
 
 Improved CSS for dark mode
 
+Added link to help center
+
