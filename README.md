@@ -1394,3 +1394,5 @@ Added link to help center
 
 Fixed issue with cache refresh
 
+Fixed issue with cache refresh
+
