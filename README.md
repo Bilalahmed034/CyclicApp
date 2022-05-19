@@ -1392,3 +1392,5 @@ Added link to help center
 
 Added link to help center
 
+Fixed issue with cache refresh
+
