@@ -1398,3 +1398,5 @@ Fixed issue with cache refresh
 
 Fixed issue with cache refresh
 
+Improved header navigation
+
