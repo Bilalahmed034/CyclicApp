@@ -1418,3 +1418,5 @@ Improved header navigation
 
 Improved header navigation
 
+Fixed bug in date formatting
+
