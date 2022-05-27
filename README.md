@@ -1454,3 +1454,5 @@ Updated UI colors
 
 Updated UI colors
 
+Fixed bug in data fetching
+
