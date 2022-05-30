@@ -1458,3 +1458,5 @@ Fixed bug in data fetching
 
 Fixed bug in data fetching
 
+Added quick links on homepage
+
