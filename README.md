@@ -1506,3 +1506,5 @@ Added analytics for user actions
 
 Updated header design
 
+Updated tests for API responses
+
