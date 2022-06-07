@@ -1512,3 +1512,5 @@ Updated tests for API responses
 
 Fixed memory leak in component
 
+Fixed memory leak in component
+
