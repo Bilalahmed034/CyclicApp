@@ -1510,3 +1510,5 @@ Updated tests for API responses
 
 Updated tests for API responses
 
+Fixed memory leak in component
+
