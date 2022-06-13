@@ -1550,3 +1550,5 @@ Improved form error messages
 
 Improved form error messages
 
+Updated tooltips for icons
+
