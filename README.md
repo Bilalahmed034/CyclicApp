@@ -1568,3 +1568,5 @@ Updated tooltips for icons
 
 Improved layout on small screens
 
+Improved layout on small screens
+
