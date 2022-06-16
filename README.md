@@ -1580,3 +1580,5 @@ Fixed bug in user search
 
 Added search suggestions
 
+Added search suggestions
+
