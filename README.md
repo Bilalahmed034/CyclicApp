@@ -1598,3 +1598,5 @@ Added search suggestions
 
 Added search suggestions
 
+Updated build scripts
+
