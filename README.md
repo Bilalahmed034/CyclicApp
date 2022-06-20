@@ -1606,3 +1606,5 @@ Updated build scripts
 
 Updated build scripts
 
+Added progress bar for uploads
+
