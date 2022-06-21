@@ -1618,3 +1618,5 @@ Added progress bar for uploads
 
 Added progress bar for uploads
 
+Updated main navigation bar
+
