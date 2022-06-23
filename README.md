@@ -1642,3 +1642,5 @@ Improved image compression
 
 Improved image compression
 
+Fixed layout issue on tablets
+
