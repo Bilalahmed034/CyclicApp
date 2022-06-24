@@ -1644,3 +1644,5 @@ Improved image compression
 
 Fixed layout issue on tablets
 
+Added API documentation
+
