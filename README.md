@@ -1660,3 +1660,5 @@ Added API documentation
 
 Added API documentation
 
+Fixed layout issue on signup page
+
