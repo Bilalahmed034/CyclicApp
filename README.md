@@ -1668,3 +1668,5 @@ Fixed layout issue on signup page
 
 Added support for custom themes
 
+Added support for custom themes
+
