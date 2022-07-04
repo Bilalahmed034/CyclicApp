@@ -1714,3 +1714,5 @@ Improved form submission UX
 
 Improved form submission UX
 
+Fixed layout issues on Android
+
