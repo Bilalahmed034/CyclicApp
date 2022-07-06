@@ -1728,3 +1728,5 @@ Improved text legibility
 
 Improved text legibility
 
+Fixed issue with email validation
+
