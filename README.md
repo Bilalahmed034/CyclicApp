@@ -1742,3 +1742,5 @@ Fixed issue with email validation
 
 Fixed issue with email validation
 
+Updated deployment workflows
+
