@@ -1760,3 +1760,5 @@ Updated deployment workflows
 
 Improved UX for file uploads
 
+Fixed footer display issue
+
