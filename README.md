@@ -1762,3 +1762,5 @@ Improved UX for file uploads
 
 Fixed footer display issue
 
+Fixed footer display issue
+
