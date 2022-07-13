@@ -1794,3 +1794,5 @@ Improved loading state UI
 
 Improved loading state UI
 
+Added custom error handling
+
