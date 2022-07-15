@@ -1818,3 +1818,5 @@ Updated search algorithm
 
 Fixed issue with button alignment
 
+Fixed issue with button alignment
+
