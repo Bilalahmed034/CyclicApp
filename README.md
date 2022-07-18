@@ -1834,3 +1834,5 @@ Fixed issue with button alignment
 
 Fixed issue with button alignment
 
+Updated language translations
+
