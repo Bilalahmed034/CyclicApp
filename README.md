@@ -1876,3 +1876,5 @@ Added new API endpoint
 
 Improved UX for data loading
 
+Improved UX for data loading
+
