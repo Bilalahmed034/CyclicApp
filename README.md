@@ -1928,3 +1928,5 @@ Added new loader animations
 
 Updated styles for modals
 
+Updated styles for modals
+
