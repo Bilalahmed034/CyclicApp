@@ -1932,3 +1932,5 @@ Updated styles for modals
 
 Updated styles for modals
 
+Fixed cache issue on refresh
+
