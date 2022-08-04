@@ -1968,3 +1968,5 @@ Improved login error messages
 
 Updated alert styles
 
+Fixed styling issue on dark mode
+
