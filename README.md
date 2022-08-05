@@ -1986,3 +1986,5 @@ Fixed styling issue on dark mode
 
 Improved scroll performance
 
+Improved scroll performance
+
