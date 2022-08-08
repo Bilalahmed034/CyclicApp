@@ -1998,3 +1998,5 @@ Improved scroll performance
 
 Improved scroll performance
 
+Fixed issue with image previews
+
