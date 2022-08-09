@@ -2014,3 +2014,5 @@ Fixed issue with image previews
 
 Improved onboarding steps
 
+Improved onboarding steps
+
