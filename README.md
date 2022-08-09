@@ -2012,3 +2012,5 @@ Fixed issue with image previews
 
 Fixed issue with image previews
 
+Improved onboarding steps
+
