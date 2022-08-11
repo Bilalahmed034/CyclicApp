@@ -2018,3 +2018,5 @@ Improved onboarding steps
 
 Updated privacy settings UI
 
+Fixed issue with duplicate data
+
