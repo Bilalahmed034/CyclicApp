@@ -2020,3 +2020,5 @@ Updated privacy settings UI
 
 Fixed issue with duplicate data
 
+Added shortcuts for navigation
+
