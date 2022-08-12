@@ -2022,3 +2022,5 @@ Fixed issue with duplicate data
 
 Added shortcuts for navigation
 
+Added shortcuts for navigation
+
