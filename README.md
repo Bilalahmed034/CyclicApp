@@ -2036,3 +2036,5 @@ Added shortcuts for navigation
 
 Added shortcuts for navigation
 
+Fixed issue in user search
+
