@@ -2040,3 +2040,5 @@ Fixed issue in user search
 
 Added new error pages
 
+Added new error pages
+
