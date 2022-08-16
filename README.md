@@ -2038,3 +2038,5 @@ Added shortcuts for navigation
 
 Fixed issue in user search
 
+Added new error pages
+
