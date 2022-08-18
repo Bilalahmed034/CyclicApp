@@ -2052,3 +2052,5 @@ Updated style guide
 
 Updated style guide
 
+Fixed loading spinner issue
+
