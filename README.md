@@ -2054,3 +2054,5 @@ Updated style guide
 
 Fixed loading spinner issue
 
+Improved UX on error pages
+
