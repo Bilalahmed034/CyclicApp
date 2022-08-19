@@ -2056,3 +2056,5 @@ Fixed loading spinner issue
 
 Improved UX on error pages
 
+Improved UX on error pages
+
