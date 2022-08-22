@@ -2060,3 +2060,5 @@ Improved UX on error pages
 
 Improved UX on error pages
 
+Fixed display issue on iOS
+
