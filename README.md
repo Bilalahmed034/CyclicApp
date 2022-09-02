@@ -2170,3 +2170,5 @@ Fixed issue with logout flow
 
 Added icons to sidebar
 
+Added icons to sidebar
+
