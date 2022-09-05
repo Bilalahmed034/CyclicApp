@@ -2176,3 +2176,5 @@ Added icons to sidebar
 
 Fixed tooltip display issue
 
+Fixed tooltip display issue
+
