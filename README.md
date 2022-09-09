@@ -2198,3 +2198,5 @@ Updated footer links
 
 Fixed dropdown visibility
 
+Improved header design
+
