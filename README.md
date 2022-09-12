@@ -2204,3 +2204,5 @@ Improved header design
 
 Improved header design
 
+Improved UX on profile page
+
