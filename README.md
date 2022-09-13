@@ -2222,3 +2222,5 @@ Improved UX on profile page
 
 Updated mobile header design
 
+Updated mobile header design
+
