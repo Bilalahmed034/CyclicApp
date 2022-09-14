@@ -2236,3 +2236,5 @@ Updated mobile header design
 
 Fixed input field focus bug
 
+Fixed input field focus bug
+
