@@ -2268,3 +2268,5 @@ Updated unit tests
 
 Fixed CSS bug in sidebar
 
+Fixed CSS bug in sidebar
+
