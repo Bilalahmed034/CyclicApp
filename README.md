@@ -2276,3 +2276,5 @@ Fixed CSS bug in sidebar
 
 Fixed CSS bug in sidebar
 
+Improved search results display
+
