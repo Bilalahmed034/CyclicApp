@@ -2286,3 +2286,5 @@ Updated button styles
 
 Fixed notification alignment
 
+Fixed notification alignment
+
