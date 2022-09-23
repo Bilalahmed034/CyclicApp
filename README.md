@@ -2284,3 +2284,5 @@ Improved search results display
 
 Updated button styles
 
+Fixed notification alignment
+
