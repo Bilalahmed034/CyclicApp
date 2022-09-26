@@ -2294,3 +2294,5 @@ Fixed notification alignment
 
 Fixed notification alignment
 
+Updated dark mode styling
+
