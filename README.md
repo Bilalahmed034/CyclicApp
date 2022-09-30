@@ -2320,3 +2320,5 @@ Added notification badges
 
 Improved header layout
 
+Fixed scroll issue on pages
+
