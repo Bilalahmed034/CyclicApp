@@ -2336,3 +2336,5 @@ Fixed scroll issue on pages
 
 Improved icons for accessibility
 
+Improved icons for accessibility
+
