@@ -2350,3 +2350,5 @@ Improved icons for accessibility
 
 Improved icons for accessibility
 
+Updated analytics tracking
+
