@@ -2366,3 +2366,5 @@ Updated analytics tracking
 
 Updated analytics tracking
 
+Fixed color scheme on dark mode
+
