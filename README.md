@@ -2408,3 +2408,5 @@ Updated profile page design
 
 Updated profile page design
 
+Updated user profile settings
+
