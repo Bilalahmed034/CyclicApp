@@ -2426,3 +2426,5 @@ Fixed layout on mobile view
 
 Fixed layout on mobile view
 
+Improved UX on onboarding
+
