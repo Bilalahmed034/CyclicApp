@@ -2428,3 +2428,5 @@ Fixed layout on mobile view
 
 Improved UX on onboarding
 
+Updated error handling
+
