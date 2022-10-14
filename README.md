@@ -2442,3 +2442,5 @@ Updated error handling
 
 Updated error handling
 
+Fixed issue in API requests
+
