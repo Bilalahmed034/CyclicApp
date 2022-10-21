@@ -2522,3 +2522,5 @@ Fixed margin on main page
 
 Improved transitions on mobile
 
+Improved transitions on mobile
+
