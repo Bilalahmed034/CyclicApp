@@ -2534,3 +2534,5 @@ Improved transitions on mobile
 
 Improved transitions on mobile
 
+Improved search functionality
+
