@@ -2550,3 +2550,5 @@ Improved search functionality
 
 Improved search functionality
 
+Fixed button alignment on iOS
+
