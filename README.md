@@ -2590,3 +2590,5 @@ Updated button hover effects
 
 Fixed theme styling on dark mode
 
+Fixed theme styling on dark mode
+
