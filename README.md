@@ -2604,3 +2604,5 @@ Fixed theme styling on dark mode
 
 Updated header accessibility
 
+Updated header accessibility
+
