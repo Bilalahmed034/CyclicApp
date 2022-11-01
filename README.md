@@ -2618,3 +2618,5 @@ Fixed sidebar collapse issue
 
 Fixed sidebar collapse issue
 
+Fixed sidebar collapse issue
+
