@@ -2606,3 +2606,5 @@ Updated header accessibility
 
 Updated header accessibility
 
+Fixed sidebar collapse issue
+
