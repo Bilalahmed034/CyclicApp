@@ -2634,3 +2634,5 @@ Improved page load times
 
 Improved page load times
 
+Updated iconography
+
