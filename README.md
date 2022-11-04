@@ -2650,3 +2650,5 @@ Updated iconography
 
 Updated iconography
 
+Fixed style issues in settings
+
