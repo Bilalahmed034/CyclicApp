@@ -2658,3 +2658,5 @@ Fixed style issues in settings
 
 Fixed style issues in settings
 
+Fixed issue in form validation
+
