@@ -2680,3 +2680,5 @@ Fixed issue in form validation
 
 Improved mobile layout in footer
 
+Updated privacy policy content
+
