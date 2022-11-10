@@ -2696,3 +2696,5 @@ Updated privacy policy content
 
 Updated privacy policy content
 
+Fixed typo in user guide
+
