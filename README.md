@@ -2702,3 +2702,5 @@ Fixed typo in user guide
 
 Improved transitions on forms
 
+Improved transitions on forms
+
