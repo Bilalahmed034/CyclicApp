@@ -2746,3 +2746,5 @@ Updated layout in settings page
 
 Fixed issue in email verification
 
+Fixed issue in email verification
+
