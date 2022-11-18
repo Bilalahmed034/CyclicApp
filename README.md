@@ -2766,3 +2766,5 @@ Improved error display
 
 Improved error display
 
+Updated mobile nav styling
+
