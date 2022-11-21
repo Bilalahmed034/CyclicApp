@@ -2778,3 +2778,5 @@ Updated mobile nav styling
 
 Updated mobile nav styling
 
+Fixed alignment on desktop view
+
