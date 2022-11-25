@@ -2816,3 +2816,5 @@ Fixed issue with media queries
 
 Improved hover animations
 
+Improved hover animations
+
