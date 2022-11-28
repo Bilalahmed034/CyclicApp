@@ -2828,3 +2828,5 @@ Improved hover animations
 
 Improved hover animations
 
+Improved UX on profile images
+
