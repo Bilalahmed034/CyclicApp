@@ -2840,3 +2840,5 @@ Fixed scroll issues
 
 Fixed scroll issues
 
+Updated pagination styling
+
