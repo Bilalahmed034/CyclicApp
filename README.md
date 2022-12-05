@@ -2854,3 +2854,5 @@ Improved footer accessibility
 
 Updated mobile view styles
 
+Updated loader styles
+
