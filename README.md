@@ -2856,3 +2856,5 @@ Updated mobile view styles
 
 Updated loader styles
 
+Fixed modal width on desktop
+
