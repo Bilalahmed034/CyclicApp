@@ -2908,3 +2908,5 @@ Fixed input spacing
 
 Fixed icon alignment
 
+Fixed icon alignment
+
