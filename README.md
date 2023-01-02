@@ -3068,3 +3068,5 @@ Initial project setup
 
 Initial project setup
 
+Fixed typo in README
+
