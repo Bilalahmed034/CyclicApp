@@ -3094,3 +3094,5 @@ Updated project dependencies
 
 Updated project dependencies
 
+Improved UI for the login screen
+
