@@ -3122,3 +3122,5 @@ Fixed bug in user registration
 
 Updated .gitignore file
 
+Updated .gitignore file
+
