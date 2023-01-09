@@ -3120,3 +3120,5 @@ Added user authentication flow
 
 Fixed bug in user registration
 
+Updated .gitignore file
+
