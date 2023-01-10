@@ -3134,3 +3134,5 @@ Updated .gitignore file
 
 Updated .gitignore file
 
+Fixed typo in error messages
+
