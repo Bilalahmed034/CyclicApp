@@ -3160,3 +3160,5 @@ Improved form validation for sign-up
 
 Added API endpoint for retrieving user data
 
+Added API endpoint for retrieving user data
+
