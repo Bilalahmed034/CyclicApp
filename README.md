@@ -3158,3 +3158,5 @@ Added loading spinner for async tasks
 
 Improved form validation for sign-up
 
+Added API endpoint for retrieving user data
+
