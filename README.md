@@ -3170,3 +3170,5 @@ Added API endpoint for retrieving user data
 
 Added API endpoint for retrieving user data
 
+Updated README with setup instructions
+
