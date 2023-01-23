@@ -3218,3 +3218,5 @@ Updated project dependencies
 
 Updated project dependencies
 
+Added unit tests for user service
+
