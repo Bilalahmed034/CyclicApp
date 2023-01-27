@@ -3250,3 +3250,5 @@ Optimized database queries
 
 Optimized database queries
 
+Fixed navigation bug
+
