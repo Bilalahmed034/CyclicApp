@@ -3304,3 +3304,5 @@ Updated documentation for deployment
 
 Updated documentation for deployment
 
+Fixed bug in search functionality
+
