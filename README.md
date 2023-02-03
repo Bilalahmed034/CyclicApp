@@ -3306,3 +3306,5 @@ Updated documentation for deployment
 
 Fixed bug in search functionality
 
+Fixed bug in search functionality
+
