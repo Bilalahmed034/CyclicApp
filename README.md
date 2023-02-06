@@ -3324,3 +3324,5 @@ Fixed bug in search functionality
 
 Updated icon library
 
+Updated icon library
+
