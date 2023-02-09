@@ -3334,3 +3334,5 @@ Fixed issue with data loading on refresh
 
 Improved session management
 
+Updated app color scheme
+
