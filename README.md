@@ -3356,3 +3356,5 @@ Refactored form component
 
 Refactored form component
 
+Fixed issue with dark mode toggle
+
