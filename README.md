@@ -3398,3 +3398,5 @@ Updated localization files
 
 Updated localization files
 
+Fixed scrolling issue on mobile
+
