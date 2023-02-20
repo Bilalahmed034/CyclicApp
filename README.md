@@ -3406,3 +3406,5 @@ Fixed scrolling issue on mobile
 
 Fixed scrolling issue on mobile
 
+Fixed bug in data serialization
+
