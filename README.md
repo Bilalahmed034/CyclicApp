@@ -3418,3 +3418,5 @@ Fixed bug in data serialization
 
 Fixed bug in data serialization
 
+Added new feature for saving favorites
+
