@@ -3440,3 +3440,5 @@ Added new feature for saving favorites
 
 Updated footer with social links
 
+Updated footer with social links
+
