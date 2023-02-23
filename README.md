@@ -3448,3 +3448,5 @@ Updated footer with social links
 
 Updated footer with social links
 
+Fixed typo in settings page
+
