@@ -3482,3 +3482,5 @@ Updated project metadata
 
 Improved validation for email fields
 
+Improved validation for email fields
+
