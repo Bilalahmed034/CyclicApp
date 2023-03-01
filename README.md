@@ -3492,3 +3492,5 @@ Improved validation for email fields
 
 Fixed bug in file upload feature
 
+Fixed bug in file upload feature
+
