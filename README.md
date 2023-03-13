@@ -3608,3 +3608,5 @@ Improved loading speed on homepage
 
 Improved SEO metadata
 
+Improved SEO metadata
+
