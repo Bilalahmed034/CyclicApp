@@ -3610,3 +3610,5 @@ Improved SEO metadata
 
 Improved SEO metadata
 
+Fixed alignment issues in header
+
