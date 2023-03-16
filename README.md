@@ -3634,3 +3634,5 @@ Updated logo assets
 
 Updated logo assets
 
+Improved readability of console logs
+
