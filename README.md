@@ -3650,3 +3650,5 @@ Improved readability of console logs
 
 Improved readability of console logs
 
+Fixed issue with email notifications
+
