@@ -3662,3 +3662,5 @@ Fixed issue with email notifications
 
 Fixed issue with email notifications
 
+Fixed CSS bug in modal dialog
+
