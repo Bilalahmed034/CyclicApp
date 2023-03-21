@@ -3670,3 +3670,5 @@ Fixed CSS bug in modal dialog
 
 Improved data caching strategy
 
+Improved data caching strategy
+
