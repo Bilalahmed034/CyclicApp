@@ -3700,3 +3700,5 @@ Added input validation for forms
 
 Added input validation for forms
 
+Updated readme with new features
+
