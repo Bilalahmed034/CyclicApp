@@ -3722,3 +3722,5 @@ Fixed data sync issue on logout
 
 Fixed visual bug on signup page
 
+Fixed visual bug on signup page
+
