@@ -3724,3 +3724,5 @@ Fixed visual bug on signup page
 
 Fixed visual bug on signup page
 
+Fixed visual bug on signup page
+
