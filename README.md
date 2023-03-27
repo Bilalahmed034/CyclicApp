@@ -3720,3 +3720,5 @@ Fixed data sync issue on logout
 
 Fixed data sync issue on logout
 
+Fixed visual bug on signup page
+
