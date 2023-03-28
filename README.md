@@ -3730,3 +3730,5 @@ Fixed visual bug on signup page
 
 Fixed visual bug on signup page
 
+Improved error feedback for login
+
