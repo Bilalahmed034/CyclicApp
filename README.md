@@ -3732,3 +3732,5 @@ Fixed visual bug on signup page
 
 Improved error feedback for login
 
+Improved error feedback for login
+
