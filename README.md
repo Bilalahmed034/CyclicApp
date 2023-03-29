@@ -3750,3 +3750,5 @@ Improved error feedback for login
 
 Improved error feedback for login
 
+Updated image assets
+
