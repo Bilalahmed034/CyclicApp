@@ -3780,3 +3780,5 @@ Fixed bug in session timeout handling
 
 Fixed bug in session timeout handling
 
+Added user guide link in settings
+
