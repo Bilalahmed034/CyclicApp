@@ -3784,3 +3784,5 @@ Added user guide link in settings
 
 Fixed keyboard accessibility issues
 
+Fixed keyboard accessibility issues
+
