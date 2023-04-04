@@ -3798,3 +3798,5 @@ Fixed keyboard accessibility issues
 
 Improved login page animations
 
+Improved login page animations
+
