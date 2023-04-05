@@ -3808,3 +3808,5 @@ Improved login page animations
 
 Added missing translation strings
 
+Added missing translation strings
+
