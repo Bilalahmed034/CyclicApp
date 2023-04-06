@@ -3812,3 +3812,5 @@ Added missing translation strings
 
 Added missing translation strings
 
+Fixed formatting issue in logs
+
