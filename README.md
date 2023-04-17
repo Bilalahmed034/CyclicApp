@@ -3904,3 +3904,5 @@ Improved validation for passwords
 
 Improved validation for passwords
 
+Improved mobile layout for settings
+
