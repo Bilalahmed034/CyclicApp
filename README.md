@@ -3922,3 +3922,5 @@ Improved mobile layout for settings
 
 Fixed performance bottleneck in API
 
+Fixed performance bottleneck in API
+
