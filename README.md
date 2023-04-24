@@ -3966,3 +3966,5 @@ Improved UX for form validation
 
 Improved UX for form validation
 
+Updated color palette for branding
+
