@@ -4020,3 +4020,5 @@ Updated error messages
 
 Updated error messages
 
+Improved sorting in search results
+
