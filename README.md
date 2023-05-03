@@ -4068,3 +4068,5 @@ Fixed bug in profile update
 
 Fixed bug in profile update
 
+Updated navbar for mobile
+
