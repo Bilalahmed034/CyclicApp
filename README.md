@@ -4108,3 +4108,5 @@ Improved app initialization time
 
 Improved app initialization time
 
+Fixed issue with avatar cropping
+
