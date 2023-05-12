@@ -4124,3 +4124,5 @@ Improved button styling
 
 Improved button styling
 
+Fixed typo in welcome message
+
