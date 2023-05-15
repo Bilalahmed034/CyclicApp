@@ -4132,3 +4132,5 @@ Fixed typo in welcome message
 
 Fixed bug in profile image display
 
+Fixed bug in profile image display
+
