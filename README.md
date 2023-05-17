@@ -4138,3 +4138,5 @@ Fixed bug in profile image display
 
 Updated dependencies for security
 
+Improved CSS for dark mode
+
