@@ -4140,3 +4140,5 @@ Updated dependencies for security
 
 Improved CSS for dark mode
 
+Added link to help center
+
