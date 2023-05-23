@@ -4190,3 +4190,5 @@ Updated footer links
 
 Updated footer links
 
+Fixed bug in date formatting
+
