@@ -4200,3 +4200,5 @@ Fixed bug in date formatting
 
 Improved layout on iOS devices
 
+Improved layout on iOS devices
+
