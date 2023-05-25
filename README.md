@@ -4202,3 +4202,5 @@ Improved layout on iOS devices
 
 Improved layout on iOS devices
 
+Added notifications for new messages
+
