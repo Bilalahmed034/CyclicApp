@@ -4222,3 +4222,5 @@ Added notifications for new messages
 
 Added notifications for new messages
 
+Updated UI colors
+
