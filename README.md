@@ -4236,3 +4236,5 @@ Updated UI colors
 
 Updated default language to English
 
+Updated default language to English
+
