@@ -4324,3 +4324,5 @@ Fixed memory leak in component
 
 Added filtering options for users
 
+Updated metadata for SEO
+
