@@ -4352,3 +4352,5 @@ Updated tooltips for icons
 
 Updated tooltips for icons
 
+Improved layout on small screens
+
