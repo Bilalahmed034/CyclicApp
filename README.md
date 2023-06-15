@@ -4368,3 +4368,5 @@ Improved layout on small screens
 
 Improved layout on small screens
 
+Fixed bug in user search
+
