@@ -4378,3 +4378,5 @@ Fixed bug in user search
 
 Fixed bug in user search
 
+Added search suggestions
+
