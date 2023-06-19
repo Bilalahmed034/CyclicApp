@@ -4380,3 +4380,5 @@ Fixed bug in user search
 
 Added search suggestions
 
+Fixed issue with background images
+
