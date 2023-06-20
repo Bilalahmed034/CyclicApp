@@ -4400,3 +4400,5 @@ Fixed issue with background images
 
 Fixed issue with background images
 
+Added progress bar for uploads
+
