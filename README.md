@@ -4426,3 +4426,5 @@ Updated main navigation bar
 
 Updated main navigation bar
 
+Improved image compression
+
