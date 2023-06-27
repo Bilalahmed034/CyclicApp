@@ -4470,3 +4470,5 @@ Improved validation for phone fields
 
 Improved validation for phone fields
 
+Fixed layout issue on signup page
+
