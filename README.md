@@ -4526,3 +4526,5 @@ Fixed broken links in footer
 
 Updated favicon icons
 
+Updated favicon icons
+
