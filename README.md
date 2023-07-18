@@ -4660,3 +4660,5 @@ Improved dropdown design
 
 Improved dropdown design
 
+Updated language translations
+
