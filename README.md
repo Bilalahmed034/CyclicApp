@@ -4676,3 +4676,5 @@ Updated language translations
 
 Updated language translations
 
+Fixed bug in signup form
+
