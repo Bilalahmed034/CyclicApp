@@ -4694,3 +4694,5 @@ Fixed bug in signup form
 
 Added new API endpoint
 
+Added new API endpoint
+
