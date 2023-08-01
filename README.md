@@ -4792,3 +4792,5 @@ Updated placeholder text
 
 Updated placeholder text
 
+Fixed padding in list items
+
