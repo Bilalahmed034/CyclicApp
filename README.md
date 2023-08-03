@@ -4806,3 +4806,5 @@ Improved login error messages
 
 Improved login error messages
 
+Updated alert styles
+
