@@ -4812,3 +4812,5 @@ Updated alert styles
 
 Updated alert styles
 
+Fixed styling issue on dark mode
+
