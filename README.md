@@ -4832,3 +4832,5 @@ Fixed styling issue on dark mode
 
 Updated data caching
 
+Fixed issue with image previews
+
