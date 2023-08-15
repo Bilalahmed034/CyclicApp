@@ -4886,3 +4886,5 @@ Updated navbar design
 
 Updated navbar design
 
+Fixed issue in user search
+
