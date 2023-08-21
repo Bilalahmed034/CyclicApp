@@ -4926,3 +4926,5 @@ Fixed loading spinner issue
 
 Fixed loading spinner issue
 
+Updated project metadata
+
