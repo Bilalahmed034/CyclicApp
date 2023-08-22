@@ -4936,3 +4936,5 @@ Updated project metadata
 
 Updated project metadata
 
+Fixed display issue on iOS
+
