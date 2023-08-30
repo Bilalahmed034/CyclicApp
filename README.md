@@ -5020,3 +5020,5 @@ Fixed image alignment issue
 
 Fixed image alignment issue
 
+Improved UX on mobile devices
+
