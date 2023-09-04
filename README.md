@@ -5064,3 +5064,5 @@ Fixed issue with logout flow
 
 Updated font sizes
 
+Updated font sizes
+
