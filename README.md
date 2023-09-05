@@ -5074,3 +5074,5 @@ Updated font sizes
 
 Updated font sizes
 
+Fixed tooltip display issue
+
