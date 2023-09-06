@@ -5096,3 +5096,5 @@ Fixed tooltip display issue
 
 Improved sidebar layout
 
+Improved sidebar layout
+
