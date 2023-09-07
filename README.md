@@ -5110,3 +5110,5 @@ Improved sidebar layout
 
 Improved sidebar layout
 
+Updated footer links
+
