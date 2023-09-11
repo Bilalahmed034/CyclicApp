@@ -5128,3 +5128,5 @@ Fixed dropdown visibility
 
 Fixed dropdown visibility
 
+Fixed issue with dark mode
+
