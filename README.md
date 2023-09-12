@@ -5144,3 +5144,5 @@ Fixed issue with dark mode
 
 Fixed issue with dark mode
 
+Improved UX on profile page
+
