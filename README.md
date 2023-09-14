@@ -5152,3 +5152,5 @@ Improved UX on profile page
 
 Updated mobile header design
 
+Fixed input field focus bug
+
