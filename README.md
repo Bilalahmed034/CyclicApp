@@ -5232,3 +5232,5 @@ Improved search results display
 
 Updated button styles
 
+Fixed dropdown functionality
+
