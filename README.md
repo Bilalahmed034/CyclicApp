@@ -5254,3 +5254,5 @@ Updated dark mode styling
 
 Updated dark mode styling
 
+Fixed issue with sidebar menu
+
