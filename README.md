@@ -5260,3 +5260,5 @@ Fixed issue with sidebar menu
 
 Added notification badges
 
+Added notification badges
+
