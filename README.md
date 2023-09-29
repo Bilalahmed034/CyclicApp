@@ -5266,3 +5266,5 @@ Added notification badges
 
 Added notification badges
 
+Improved header layout
+
