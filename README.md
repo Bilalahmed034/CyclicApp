@@ -5288,3 +5288,5 @@ Fixed issue with modal transitions
 
 Fixed issue with modal transitions
 
+Improved icons for accessibility
+
