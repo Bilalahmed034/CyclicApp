@@ -5360,3 +5360,5 @@ Improved UX on onboarding
 
 Improved UX on onboarding
 
+Updated error handling
+
