@@ -5370,3 +5370,5 @@ Updated error handling
 
 Updated navbar responsiveness
 
+Updated navbar responsiveness
+
