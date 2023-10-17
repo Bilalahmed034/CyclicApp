@@ -5388,3 +5388,5 @@ Updated navbar responsiveness
 
 Fixed bugs in notifications
 
+Fixed bugs in notifications
+
