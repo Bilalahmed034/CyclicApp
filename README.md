@@ -5396,3 +5396,5 @@ Improved cache handling
 
 Fixed margin on main page
 
+Fixed input issues on Android
+
