@@ -5416,3 +5416,5 @@ Fixed input issues on Android
 
 Fixed input issues on Android
 
+Improved search functionality
+
