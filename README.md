@@ -5468,3 +5468,5 @@ Updated button hover effects
 
 Updated button hover effects
 
+Fixed text alignment in footer
+
