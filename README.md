@@ -5472,3 +5472,5 @@ Fixed text alignment in footer
 
 Fixed text alignment in footer
 
+Updated header accessibility
+
