@@ -5488,3 +5488,5 @@ Updated header accessibility
 
 Fixed sidebar collapse issue
 
+Fixed sidebar collapse issue
+
