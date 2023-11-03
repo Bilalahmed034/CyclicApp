@@ -5492,3 +5492,5 @@ Fixed sidebar collapse issue
 
 Improved page load times
 
+Updated iconography
+
