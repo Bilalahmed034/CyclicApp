@@ -5538,3 +5538,5 @@ Improved mobile layout in footer
 
 Updated privacy policy content
 
+Updated privacy policy content
+
