@@ -5576,3 +5576,5 @@ Fixed alignment issues in forms
 
 Fixed alignment issues in forms
 
+Improved hover states on icons
+
