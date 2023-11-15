@@ -5598,3 +5598,5 @@ Improved hover states on icons
 
 Updated layout in settings page
 
+Updated layout in settings page
+
