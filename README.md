@@ -5608,3 +5608,5 @@ Updated layout in settings page
 
 Fixed issue in email verification
 
+Improved error display
+
