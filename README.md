@@ -5616,3 +5616,5 @@ Improved error display
 
 Improved error display
 
+Improved UX in dark mode
+
