@@ -5634,3 +5634,5 @@ Improved UX in dark mode
 
 Improved UX in dark mode
 
+Fixed alignment on desktop view
+
