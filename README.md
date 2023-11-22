@@ -5654,3 +5654,5 @@ Fixed alignment on desktop view
 
 Fixed alignment on desktop view
 
+Improved icons for mobile view
+
