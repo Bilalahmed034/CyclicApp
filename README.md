@@ -5664,3 +5664,5 @@ Improved icons for mobile view
 
 Updated animations
 
+Updated animations
+
