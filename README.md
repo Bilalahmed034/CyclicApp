@@ -5670,3 +5670,5 @@ Fixed issue with media queries
 
 Fixed issue with media queries
 
+Fixed issue with media queries
+
