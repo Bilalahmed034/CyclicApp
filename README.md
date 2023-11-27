@@ -5684,3 +5684,5 @@ Fixed issue with media queries
 
 Fixed layout on wide screens
 
+Fixed layout on wide screens
+
