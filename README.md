@@ -5688,3 +5688,5 @@ Fixed layout on wide screens
 
 Fixed layout on wide screens
 
+Improved UX on profile images
+
