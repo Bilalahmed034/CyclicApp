@@ -5768,3 +5768,5 @@ Improved responsiveness
 
 Improved responsiveness
 
+Updated loader styles
+
