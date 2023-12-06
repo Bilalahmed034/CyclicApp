@@ -5790,3 +5790,5 @@ Updated loader styles
 
 Fixed modal width on desktop
 
+Fixed modal width on desktop
+
