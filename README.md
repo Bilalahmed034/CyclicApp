@@ -5828,3 +5828,5 @@ Updated main buttons
 
 Updated main buttons
 
+Fixed icon alignment
+
