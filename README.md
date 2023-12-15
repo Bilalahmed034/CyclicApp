@@ -5864,3 +5864,5 @@ Improved card styling
 
 Fixed hover on links
 
+Improved UX on onboarding
+
