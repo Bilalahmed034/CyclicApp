@@ -5866,3 +5866,5 @@ Fixed hover on links
 
 Improved UX on onboarding
 
+Improved margins in sections
+
