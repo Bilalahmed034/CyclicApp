@@ -5898,3 +5898,5 @@ Updated layout on signup page
 
 Fixed alignment issues
 
+Fixed alignment issues
+
