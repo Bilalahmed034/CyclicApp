@@ -5912,3 +5912,5 @@ Fixed alignment issues
 
 Improved desktop view
 
+Updated loader styles
+
