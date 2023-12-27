@@ -5958,3 +5958,5 @@ Fixed input spacing
 
 Improved sidebar
 
+Improved sidebar
+
