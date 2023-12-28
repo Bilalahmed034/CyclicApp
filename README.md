@@ -5974,3 +5974,5 @@ Improved sidebar
 
 Updated loader styles
 
+Updated loader styles
+
