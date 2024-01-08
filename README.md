@@ -6050,3 +6050,5 @@ Added user authentication flow
 
 Added user authentication flow
 
+Refactored code for better readability
+
