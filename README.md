@@ -6138,3 +6138,5 @@ Updated user profile UI
 
 Updated user profile UI
 
+Added API endpoint for retrieving user data
+
