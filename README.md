@@ -6180,3 +6180,5 @@ Enhanced UI responsiveness
 
 Enhanced UI responsiveness
 
+Fixed styling issues on mobile view
+
