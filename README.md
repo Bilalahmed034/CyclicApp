@@ -6186,3 +6186,5 @@ Fixed styling issues on mobile view
 
 Fixed styling issues on mobile view
 
+Fixed styling issues on mobile view
+
