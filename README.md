@@ -6264,3 +6264,5 @@ Improved password validation
 
 Improved password validation
 
+Added comments for better code clarity
+
