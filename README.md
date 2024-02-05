@@ -6296,3 +6296,5 @@ Updated documentation for deployment
 
 Updated documentation for deployment
 
+Added pagination for search results
+
