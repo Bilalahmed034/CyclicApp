@@ -6300,3 +6300,5 @@ Added pagination for search results
 
 Added pagination for search results
 
+Updated icon library
+
