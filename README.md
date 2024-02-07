@@ -6316,3 +6316,5 @@ Updated icon library
 
 Updated icon library
 
+Fixed issue with data loading on refresh
+
