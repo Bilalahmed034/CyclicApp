@@ -6358,3 +6358,5 @@ Updated app color scheme
 
 Updated app color scheme
 
+Updated user settings UI
+
