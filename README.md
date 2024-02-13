@@ -6386,3 +6386,5 @@ Fixed issue with dark mode toggle
 
 Fixed issue with dark mode toggle
 
+Fixed issue with dark mode toggle
+
