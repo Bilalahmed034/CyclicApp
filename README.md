@@ -6376,3 +6376,5 @@ Updated user settings UI
 
 Updated user settings UI
 
+Fixed issue with dark mode toggle
+
