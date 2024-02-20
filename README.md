@@ -6440,3 +6440,5 @@ Added helper functions for API calls
 
 Added helper functions for API calls
 
+Fixed bug in data serialization
+
