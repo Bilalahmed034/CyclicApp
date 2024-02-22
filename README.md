@@ -6456,3 +6456,5 @@ Added new feature for saving favorites
 
 Added new feature for saving favorites
 
+Updated footer with social links
+
