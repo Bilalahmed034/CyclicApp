@@ -6474,3 +6474,5 @@ Fixed typo in settings page
 
 Fixed issue with form submission
 
+Fixed issue with form submission
+
