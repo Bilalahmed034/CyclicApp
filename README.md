@@ -6494,3 +6494,5 @@ Updated project metadata
 
 Updated project metadata
 
+Improved validation for email fields
+
