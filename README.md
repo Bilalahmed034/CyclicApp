@@ -6506,3 +6506,5 @@ Improved validation for email fields
 
 Improved validation for email fields
 
+Fixed bug in file upload feature
+
