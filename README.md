@@ -6508,3 +6508,5 @@ Improved validation for email fields
 
 Fixed bug in file upload feature
 
+Added API rate limiting
+
