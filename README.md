@@ -6510,3 +6510,5 @@ Fixed bug in file upload feature
 
 Added API rate limiting
 
+Added API rate limiting
+
