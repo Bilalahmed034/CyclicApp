@@ -6522,3 +6522,5 @@ Added API rate limiting
 
 Added API rate limiting
 
+Improved error logging for API errors
+
