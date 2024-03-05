@@ -6542,3 +6542,5 @@ Improved error logging for API errors
 
 Improved error logging for API errors
 
+Added custom error pages
+
