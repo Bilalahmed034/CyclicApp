@@ -6570,3 +6570,5 @@ Fixed issue with dropdown alignment
 
 Added new feature for user mentions
 
+Added new feature for user mentions
+
