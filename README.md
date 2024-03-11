@@ -6580,3 +6580,5 @@ Added new feature for user mentions
 
 Added new feature for user mentions
 
+Updated language files for translation
+
