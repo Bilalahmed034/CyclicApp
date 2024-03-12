@@ -6600,3 +6600,5 @@ Updated language files for translation
 
 Improved SEO metadata
 
+Improved SEO metadata
+
