@@ -6598,3 +6598,5 @@ Updated language files for translation
 
 Updated language files for translation
 
+Improved SEO metadata
+
