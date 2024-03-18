@@ -6642,3 +6642,5 @@ Updated logo assets
 
 Updated logo assets
 
+Added support for multiple languages
+
