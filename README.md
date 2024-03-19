@@ -6654,3 +6654,5 @@ Added support for multiple languages
 
 Added support for multiple languages
 
+Fixed CSS bug in modal dialog
+
