@@ -6660,3 +6660,5 @@ Fixed CSS bug in modal dialog
 
 Fixed CSS bug in modal dialog
 
+Improved data caching strategy
+
