@@ -6680,3 +6680,5 @@ Updated readme with new features
 
 Added new theme for dark mode
 
+Added new theme for dark mode
+
