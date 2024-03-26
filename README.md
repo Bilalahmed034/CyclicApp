@@ -6690,3 +6690,5 @@ Added new theme for dark mode
 
 Fixed visual bug on signup page
 
+Fixed visual bug on signup page
+
