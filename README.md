@@ -6720,3 +6720,5 @@ Updated image assets
 
 Fixed bug in session timeout handling
 
+Fixed bug in session timeout handling
+
