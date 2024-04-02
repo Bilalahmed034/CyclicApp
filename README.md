@@ -6742,3 +6742,5 @@ Updated dependencies for security
 
 Updated dependencies for security
 
+Fixed keyboard accessibility issues
+
