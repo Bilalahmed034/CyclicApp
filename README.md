@@ -6752,3 +6752,5 @@ Fixed keyboard accessibility issues
 
 Fixed keyboard accessibility issues
 
+Improved login page animations
+
