@@ -6762,3 +6762,5 @@ Improved login page animations
 
 Improved login page animations
 
+Added missing translation strings
+
