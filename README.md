@@ -6790,3 +6790,5 @@ Fixed formatting issue in logs
 
 Fixed bug in comment section
 
+Fixed bug in comment section
+
