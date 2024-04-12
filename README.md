@@ -6832,3 +6832,5 @@ Fixed encoding issue in emails
 
 Added tooltip to input fields
 
+Added tooltip to input fields
+
