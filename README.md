@@ -6850,3 +6850,5 @@ Added tooltip to input fields
 
 Fixed issue with user avatar upload
 
+Fixed issue with user avatar upload
+
