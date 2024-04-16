@@ -6852,3 +6852,5 @@ Fixed issue with user avatar upload
 
 Fixed issue with user avatar upload
 
+Improved mobile layout for settings
+
