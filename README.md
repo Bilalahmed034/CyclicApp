@@ -6904,3 +6904,5 @@ Improved accessibility for forms
 
 Improved accessibility for forms
 
+Fixed spacing issues in list view
+
