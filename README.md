@@ -6920,3 +6920,5 @@ Updated error messages
 
 Updated error messages
 
+Added custom fonts for styling
+
