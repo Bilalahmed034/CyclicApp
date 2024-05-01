@@ -6950,3 +6950,5 @@ Improved code documentation
 
 Improved code documentation
 
+Fixed bug in profile update
+
