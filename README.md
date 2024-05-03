@@ -6984,3 +6984,5 @@ Updated navbar for mobile
 
 Updated navbar for mobile
 
+Improved analytics tracking
+
