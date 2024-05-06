@@ -7000,3 +7000,5 @@ Improved analytics tracking
 
 Improved analytics tracking
 
+Added new API endpoint for stats
+
