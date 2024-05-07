@@ -7010,3 +7010,5 @@ Added new API endpoint for stats
 
 Added new API endpoint for stats
 
+Improved app initialization time
+
