@@ -7026,3 +7026,5 @@ Improved app initialization time
 
 Fixed issue with avatar cropping
 
+Updated project licenses
+
