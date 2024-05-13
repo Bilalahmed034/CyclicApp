@@ -7052,3 +7052,5 @@ Improved button styling
 
 Improved button styling
 
+Improved UX on settings page
+
