@@ -7062,3 +7062,5 @@ Improved UX on settings page
 
 Improved UX on settings page
 
+Fixed bug in profile image display
+
