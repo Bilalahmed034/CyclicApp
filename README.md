@@ -7110,3 +7110,5 @@ Added loading indicator for images
 
 Added loading indicator for images
 
+Added loading indicator for images
+
