@@ -7098,3 +7098,5 @@ Added link to help center
 
 Added loading indicator for images
 
+Added loading indicator for images
+
