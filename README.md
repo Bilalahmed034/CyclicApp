@@ -7116,3 +7116,5 @@ Added loading indicator for images
 
 Added loading indicator for images
 
+Updated footer links
+
