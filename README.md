@@ -7130,3 +7130,5 @@ Fixed bug in date formatting
 
 Fixed bug in date formatting
 
+Improved layout on iOS devices
+
