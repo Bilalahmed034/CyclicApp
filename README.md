@@ -7142,3 +7142,5 @@ Improved layout on iOS devices
 
 Added notifications for new messages
 
+Added notifications for new messages
+
