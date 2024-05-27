@@ -7156,3 +7156,5 @@ Added notifications for new messages
 
 Added notifications for new messages
 
+Improved sorting options in list
+
