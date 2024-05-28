@@ -7164,3 +7164,5 @@ Improved sorting options in list
 
 Improved sorting options in list
 
+Updated default language to English
+
