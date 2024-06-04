@@ -7230,3 +7230,5 @@ Fixed login redirect issue
 
 Fixed login redirect issue
 
+Improved UX for settings
+
