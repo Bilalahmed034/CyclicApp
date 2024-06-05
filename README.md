@@ -7240,3 +7240,5 @@ Improved UX for settings
 
 Improved UX for settings
 
+Updated tests for API responses
+
