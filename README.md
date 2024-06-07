@@ -7272,3 +7272,5 @@ Fixed memory leak in component
 
 Fixed memory leak in component
 
+Added filtering options for users
+
