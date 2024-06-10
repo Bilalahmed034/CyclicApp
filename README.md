@@ -7274,3 +7274,5 @@ Fixed memory leak in component
 
 Added filtering options for users
 
+Fixed mobile nav bar issue
+
