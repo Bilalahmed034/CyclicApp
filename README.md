@@ -7276,3 +7276,5 @@ Added filtering options for users
 
 Fixed mobile nav bar issue
 
+Fixed mobile nav bar issue
+
