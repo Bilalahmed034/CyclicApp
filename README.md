@@ -7332,3 +7332,5 @@ Fixed bug in user search
 
 Improved session timeout handling
 
+Improved session timeout handling
+
