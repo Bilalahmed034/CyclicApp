@@ -7334,3 +7334,5 @@ Improved session timeout handling
 
 Improved session timeout handling
 
+Fixed issue with background images
+
