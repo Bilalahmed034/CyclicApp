@@ -7422,3 +7422,5 @@ Improved validation for phone fields
 
 Fixed layout issue on signup page
 
+Fixed layout issue on signup page
+
