@@ -7464,3 +7464,5 @@ Added new onboarding screens
 
 Added new onboarding screens
 
+Updated favicon icons
+
