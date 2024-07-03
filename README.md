@@ -7470,3 +7470,5 @@ Updated favicon icons
 
 Updated favicon icons
 
+Fixed layout issues on Android
+
