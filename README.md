@@ -7476,3 +7476,5 @@ Fixed layout issues on Android
 
 Improved text legibility
 
+Fixed issue with email validation
+
