@@ -7478,3 +7478,5 @@ Improved text legibility
 
 Fixed issue with email validation
 
+Fixed issue with email validation
+
