@@ -7480,3 +7480,5 @@ Fixed issue with email validation
 
 Fixed issue with email validation
 
+Added new settings options
+
