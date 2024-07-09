@@ -7498,3 +7498,5 @@ Added new settings options
 
 Added new settings options
 
+Updated accessibility labels
+
