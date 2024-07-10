@@ -7518,3 +7518,5 @@ Updated accessibility labels
 
 Updated accessibility labels
 
+Fixed footer display issue
+
