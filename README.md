@@ -7540,3 +7540,5 @@ Fixed footer display issue
 
 Improved loading state UI
 
+Improved loading state UI
+
