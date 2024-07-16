@@ -7562,3 +7562,5 @@ Added form reset functionality
 
 Added form reset functionality
 
+Improved dropdown design
+
