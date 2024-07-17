@@ -7564,3 +7564,5 @@ Added form reset functionality
 
 Improved dropdown design
 
+Updated language translations
+
