@@ -7614,3 +7614,5 @@ Added new API endpoint
 
 Added new API endpoint
 
+Fixed margin issue on homepage
+
