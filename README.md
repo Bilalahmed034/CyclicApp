@@ -7654,3 +7654,5 @@ Updated user activity log
 
 Fixed typo in console output
 
+Added new loader animations
+
