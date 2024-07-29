@@ -7666,3 +7666,5 @@ Added new loader animations
 
 Added new loader animations
 
+Improved button accessibility
+
