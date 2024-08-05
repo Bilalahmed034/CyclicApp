@@ -7738,3 +7738,5 @@ Updated alert styles
 
 Updated alert styles
 
+Added new user roles
+
