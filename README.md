@@ -7740,3 +7740,5 @@ Updated alert styles
 
 Added new user roles
 
+Updated data caching
+
