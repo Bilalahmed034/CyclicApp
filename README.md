@@ -7744,3 +7744,5 @@ Updated data caching
 
 Updated data caching
 
+Fixed issue with image previews
+
