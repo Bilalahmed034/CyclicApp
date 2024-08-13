@@ -7780,3 +7780,5 @@ Improved error messages
 
 Improved error messages
 
+Updated navbar design
+
