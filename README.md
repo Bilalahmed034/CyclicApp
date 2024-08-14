@@ -7782,3 +7782,5 @@ Improved error messages
 
 Updated navbar design
 
+Fixed issue in user search
+
