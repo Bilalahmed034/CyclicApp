@@ -7788,3 +7788,5 @@ Fixed issue in user search
 
 Fixed issue in user search
 
+Added new error pages
+
