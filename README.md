@@ -7792,3 +7792,5 @@ Added new error pages
 
 Added new error pages
 
+Updated style guide
+
