@@ -7810,3 +7810,5 @@ Updated style guide
 
 Updated style guide
 
+Added transition effects
+
