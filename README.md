@@ -7814,3 +7814,5 @@ Added transition effects
 
 Updated project metadata
 
+Fixed display issue on iOS
+
