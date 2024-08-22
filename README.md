@@ -7828,3 +7828,5 @@ Fixed display issue on iOS
 
 Improved UX for dropdowns
 
+Improved UX for dropdowns
+
