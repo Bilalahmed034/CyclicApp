@@ -7842,3 +7842,5 @@ Added search filters
 
 Added search filters
 
+Updated readme with FAQs
+
