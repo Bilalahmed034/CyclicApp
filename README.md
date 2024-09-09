@@ -7960,3 +7960,5 @@ Improved sidebar layout
 
 Improved sidebar layout
 
+Updated icon alignment
+
