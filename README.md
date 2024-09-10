@@ -7966,3 +7966,5 @@ Updated icon alignment
 
 Updated icon alignment
 
+Fixed issue with dark mode
+
