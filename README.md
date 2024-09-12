@@ -7990,3 +7990,5 @@ Improved UX on profile page
 
 Improved UX on profile page
 
+Updated mobile header design
+
