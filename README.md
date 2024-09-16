@@ -8014,3 +8014,5 @@ Fixed input field focus bug
 
 Fixed layout on small screens
 
+Fixed layout on small screens
+
