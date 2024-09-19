@@ -8042,3 +8042,5 @@ Updated data fetching method
 
 Updated data fetching method
 
+Fixed CSS bug in sidebar
+
