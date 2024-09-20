@@ -8050,3 +8050,5 @@ Fixed CSS bug in sidebar
 
 Improved search results display
 
+Improved search results display
+
