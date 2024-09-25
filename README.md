@@ -8092,3 +8092,5 @@ Fixed dropdown functionality
 
 Updated dark mode styling
 
+Updated dark mode styling
+
