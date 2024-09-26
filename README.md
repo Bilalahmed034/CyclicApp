@@ -8112,3 +8112,5 @@ Fixed issue with sidebar menu
 
 Fixed issue with sidebar menu
 
+Fixed issue with sidebar menu
+
