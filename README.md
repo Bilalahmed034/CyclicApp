@@ -8128,3 +8128,5 @@ Added notification badges
 
 Added notification badges
 
+Updated hover effects
+
