@@ -8134,3 +8134,5 @@ Updated hover effects
 
 Updated hover effects
 
+Fixed issue with modal transitions
+
