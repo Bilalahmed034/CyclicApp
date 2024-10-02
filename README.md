@@ -8148,3 +8148,5 @@ Fixed issue with modal transitions
 
 Improved icons for accessibility
 
+Improved icons for accessibility
+
