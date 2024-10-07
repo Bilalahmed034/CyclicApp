@@ -8176,3 +8176,5 @@ Fixed color scheme on dark mode
 
 Fixed logout redirect issue
 
+Fixed logout redirect issue
+
