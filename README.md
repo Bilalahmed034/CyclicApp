@@ -8186,3 +8186,5 @@ Fixed logout redirect issue
 
 Improved mobile menu design
 
+Improved mobile menu design
+
