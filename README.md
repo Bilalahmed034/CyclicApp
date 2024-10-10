@@ -8214,3 +8214,5 @@ Updated user profile settings
 
 Updated user profile settings
 
+Fixed layout on mobile view
+
