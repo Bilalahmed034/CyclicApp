@@ -8248,3 +8248,5 @@ Improved performance on login
 
 Improved performance on login
 
+Updated navbar responsiveness
+
