@@ -8312,3 +8312,5 @@ Updated icons for clarity
 
 Improved search functionality
 
+Fixed button alignment on iOS
+
