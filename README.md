@@ -8340,3 +8340,5 @@ Improved responsiveness in layout
 
 Improved responsiveness in layout
 
+Fixed text alignment in footer
+
