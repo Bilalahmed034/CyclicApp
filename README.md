@@ -8352,3 +8352,5 @@ Fixed text alignment in footer
 
 Updated header accessibility
 
+Updated header accessibility
+
