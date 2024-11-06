@@ -8418,3 +8418,5 @@ Updated user onboarding screens
 
 Updated user onboarding screens
 
+Fixed issue in form validation
+
