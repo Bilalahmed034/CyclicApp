@@ -8440,3 +8440,5 @@ Fixed issue in form validation
 
 Improved mobile layout in footer
 
+Improved mobile layout in footer
+
