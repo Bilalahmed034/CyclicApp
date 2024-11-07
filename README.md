@@ -8438,3 +8438,5 @@ Fixed issue in form validation
 
 Fixed issue in form validation
 
+Improved mobile layout in footer
+
